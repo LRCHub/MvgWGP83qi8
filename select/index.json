@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "base_track": "綺麗事",
+  "base_artist": "星街すいせい",
+  "createdAt": "2026-03-18T16:55:36.482903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "綺麗事",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/01_綺麗事_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "綺麗事",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": false,
+      "path": "select/02_綺麗事_Hoshimachi_Suisei.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "綺麗事 - Kireigoto",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/03_綺麗事_-_Kireigoto_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "綺麗事 / Kireigoto",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/04_綺麗事___Kireigoto_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "綺麗事",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/05_綺麗事_星街すいせい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "綺麗事",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_綺麗事_星街すいせい.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "綺麗事",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/localdb_01_綺麗事_星街すいせい.lrc",
+      "repo_name": "VPhLXeU25KA"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "綺麗事",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/localdb_02_綺麗事_星街すいせい.txt",
+      "repo_name": "8VD7twAsRDA"
+    }
+  ]
+}
