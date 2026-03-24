@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "綺麗事",
   "base_artist": "星街すいせい",
-  "createdAt": "2026-03-18T16:56:29.249849Z",
+  "createdAt": "2026-03-24T15:01:25.397931Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -66,9 +66,18 @@
       "source": "localdb",
       "title": "綺麗事",
       "artist": "星街すいせい",
-      "has_synced": false,
-      "path": "select/localdb_02_綺麗事_星街すいせい.txt",
+      "has_synced": true,
+      "path": "select/localdb_02_綺麗事_星街すいせい.lrc",
       "repo_name": "8VD7twAsRDA"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "綺麗事",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/localdb_03_綺麗事_星街すいせい.lrc",
+      "repo_name": "MvgWGP83qi8"
     }
   ]
 }
